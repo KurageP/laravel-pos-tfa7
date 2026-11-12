@@ -1,0 +1,19 @@
+IT0049 TFA7 - Lanz Wayne Villaruel
+
+The customer/user create and edit features and avatar thumbnail upload
+have been added to the supplied TFA6 source project.
+
+1. Extract this ZIP.
+2. Open PowerShell inside the extracted project folder.
+3. Follow "Local setup on Windows PowerShell" in README.md.
+4. Run php artisan test and do the browser checks in README.md.
+5. Push the tested project to your GitHub repository.
+6. Deploy the updated repository to Render.
+7. Submit the GitHub URL and the working hosted URL.
+
+PHP 8.2+, Composer, and GD image support are required.
+The first composer install generates a new composer.lock; commit it.
+If copying over the old TFA6 folder, remove its old composer.lock first.
+Do not upload your .env file or private keys to GitHub.
+This source has not been run here because PHP is unavailable.
+GitHub and Render have not been updated from this workspace.
